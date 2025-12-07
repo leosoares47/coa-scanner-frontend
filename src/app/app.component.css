@@ -1,0 +1,52 @@
+.navbar-title {
+  font-size: 22px;
+  font-weight: bold;
+  color: #4b5eca;
+}
+
+.navbar-center {
+  margin-top: 100px;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.layout-content {
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+}
+
+.upload-area {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.loading-spinner {
+  margin-top: 20px;
+}
+
+.result-card {
+  margin-top: 20px;
+  width: 100%;
+  max-width: 600px;
+}
+
+.result-card-filename {
+  font-size: 13px;
+  color: #525151;
+  margin-bottom: 6px;
+}
+
+.result-card-input {
+  width: 350px;
+  padding: 8px;
+  margin-bottom: 12px;
+  font-size: 16px;
+}
+
+.result-card-actions {
+  display: flex;
+  gap: 12px;
+}
